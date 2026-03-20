@@ -80,7 +80,7 @@ All evidence is stored in the `evidence/` folder:
 ## Report
 The **full vulnerability assessment report** is included in the `report/` folder:
 
-- `report/vulnerability_report.pdf`  
+- `report/vulnerabilityAssessmentReport.pdf`  
 
 It includes **all findings, risk levels, and remediation steps**,  
 
