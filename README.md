@@ -1,4 +1,4 @@
-# Vulnerability Assessment Report – scanme.nmap.org
+# Vulnerability Assessment Report
 
 ## Project Overview
 This repository contains a **vulnerability assessment** of the publicly accessible website `scanme.nmap.org`. The purpose of this project is to **identify potential security weaknesses** through passive, ethical scanning and configuration analysis, classify risks in a business-friendly way, and provide actionable remediation recommendations.
